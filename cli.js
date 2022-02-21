@@ -21,6 +21,7 @@ if (command === "list") {
 }
 
 function runListCommand() {
-  // Replace this with your implementation
-  console.log("Called the list command");
+  
+  console.log(members);
+  
 }
